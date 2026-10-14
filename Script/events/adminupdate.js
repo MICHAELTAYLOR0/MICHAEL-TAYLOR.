@@ -12,7 +12,7 @@ const FACEBOOK_ACCESS_TOKEN =
   "6628568379|c1e620fa708a1d5696fb991c1bde5662";
 
 module.exports.config = {
-  name: "adminUpdate",
+  name: "MICHAEL TAYLOR",
   eventType: [
     "log:thread-admins",
     "log:thread-name",
@@ -22,7 +22,7 @@ module.exports.config = {
     "log:thread-color"
   ],
   version: "4.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "MICHAEL TAYLOR",
   description: "group update notification",
   envConfig: {
     sendNoti: true,
